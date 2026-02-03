@@ -93,4 +93,4 @@ A Python script that tracks the International Space Station and sends an email a
 
 ## License
 
-MIT
+[MIT License](LICENSE)
